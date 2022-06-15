@@ -1,0 +1,20 @@
+{idx === 3 && (
+							<Box
+								style={{
+									top: 0,
+									right: 0,
+									backgroundColor: 'green',
+									borderRadius: 10,
+									padding: 2,
+									paddingRight: 5,
+									paddingLeft: 5,
+									zIndex: 2,
+								}}
+								_text={{
+									color: 'white',
+									fontWeight: 'bold',
+									fontSize: 12,
+								}}
+							>
+								10
+							</Box>
